@@ -6,4 +6,7 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="JavaScript">
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
