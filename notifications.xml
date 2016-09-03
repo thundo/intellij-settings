@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="External Executable Critical Failures" />
     <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
   </component>
 </application>
