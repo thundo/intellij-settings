@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="dist" type="JSON" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
