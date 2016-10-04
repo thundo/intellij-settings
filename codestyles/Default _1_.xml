@@ -8,5 +8,6 @@
   </XML>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+    <option name="IF_BRACE_FORCE" value="1" />
   </codeStyleSettings>
 </code_scheme>
