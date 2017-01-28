@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ini" type="Docker file" />
       <mapping ext="dist" type="JSON" />
+      <mapping ext="db" type="JSON" />
       <mapping pattern="envvars" type="PLAIN_TEXT" />
       <mapping pattern="xlink-create" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
