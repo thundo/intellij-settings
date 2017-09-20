@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ini" type="Docker file" />
-      <mapping ext="db" type="JSON" />
       <mapping ext="dist" type="JSON" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="db" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
