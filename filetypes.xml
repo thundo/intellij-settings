@@ -4,14 +4,15 @@
       <mapping ext="ini" type="Docker file" />
       <mapping ext="dist" type="JSON" />
       <mapping ext="db" type="JSON" />
-      <mapping pattern="gdb" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="gdb" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".nycrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pref" type="PLAIN_TEXT" />
-      <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
