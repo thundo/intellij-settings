@@ -16,6 +16,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
